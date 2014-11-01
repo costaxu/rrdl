@@ -1,0 +1,5 @@
+人人相册导出器。
+使用方法， 
+1 将人人相册链接放入albumn.final.txt
+2 将renren.com的cookie放入 cookie环境变量。 例如 export cookie="xxxxxxx" 
+3 运行download.py, 会将相册所有图片放入data/$albumnid/$pictureid
